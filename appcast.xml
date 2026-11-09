@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>The Folders Updates</title>
+        <link>https://timokhin.github.io/the-folders-releases/appcast.xml</link>
+        <description>Обновления The Folders</description>
+        <language>ru</language>
+        <item>
+            <title>1.3.1</title>
+            <pubDate>Mon, 09 Nov 2026 09:46:11 +0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.6</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="sVCjm83qFFPS1NLj7NKq4HG1xPJEF4LG578OJFFlbyecaEbDGw5XuBDUQa+GDusnihnZMnFJTNj1f56LIbXlAA==" sparkle:length="367">https://timokhin.github.io/the-folders-releases/release-notes/The-Folders-1.3.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/timokhin/the-folders-releases/releases/download/v1.3.1/The-Folders-1.3.1.zip" length="8440017" type="application/octet-stream" sparkle:edSignature="BIwY+M6Cz/KtlMKxakb7QCBDKt/F6avzIBEPmKGGf8McqVnEuohpCPxjOKZj0ZCmYxsqYG6VB1Wq9OYhur2PAw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Mo6UAUddRYq6OLKDl7E1v+YthB7+GaTK+oJ78kysylzfWVLq7r3AI2iPoop/RD8D20yj7NBoI05Ke3HudLacCw==
+length: 1545
+-->
