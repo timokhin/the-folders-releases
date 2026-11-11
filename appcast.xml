@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Обновления The Folders</description>
         <language>ru</language>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Tue, 10 Nov 2026 09:06:51 +0300</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>1.4.1</title>
+            <pubDate>Wed, 11 Nov 2026 09:47:23 +0300</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.6</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="VehE8hNDe42YrBopTeYFI+iePz2OeWswFLFIKvi98lNpQY0h91ULY8bMT50oj33zO19GL0K8hz7U30xcYB+oBQ==" sparkle:length="625">https://timokhin.github.io/the-folders-releases/release-notes/The-Folders-1.4.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/timokhin/the-folders-releases/releases/download/v1.4.0/The-Folders-1.4.0.zip" length="8529114" type="application/octet-stream" sparkle:edSignature="ioAOCbVzJs727oOITE7ziCiWnm2PqtYPzY4HB1x300oNiwWFPT76ObXMpoPfJTJg4/2tOl6uWGbKigboUnsnBg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="Q9mEOBmTzmJY1y2usEmXWHFkxZ72C2ZRfWmervLO0ND8UR0jvmkeCLHv5gkd/4ZUf6r2+TAp1+I64CddjSrtBQ==" sparkle:length="355">https://timokhin.github.io/the-folders-releases/release-notes/The-Folders-1.4.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/timokhin/the-folders-releases/releases/download/v1.4.1/The-Folders-1.4.1.zip" length="8529310" type="application/octet-stream" sparkle:edSignature="DIUgaa1ZW9f/ypKy55nCYINGrgTmWt97je0bSLy19IwFw1B6bSTFU5FF5gnBIF1cGECRWaaK+GK262xNihChCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /QevykzIE5k1YYA4CysJmNJdSxL3zHAsmcg8y9aU583+5NDGRy0ZBi6/aE5mJqrCOqk7Y7rpU0rEIcm7WpSRBA==
+edSignature: QWsSkOL/iy8mexaBJrn74iKoRYz0yHTowxN7HhsuoIyEqE6RDYTRfBVbY1fnHLNnV96BVBIUK+9Z7p1CNhlWAg==
 length: 1546
 -->
