@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Обновления The Folders</description>
         <language>ru</language>
         <item>
-            <title>1.4.1</title>
-            <pubDate>Wed, 11 Nov 2026 09:47:23 +0300</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <title>1.5.0</title>
+            <pubDate>Sat, 14 Nov 2026 12:13:58 +0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.6</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="Q9mEOBmTzmJY1y2usEmXWHFkxZ72C2ZRfWmervLO0ND8UR0jvmkeCLHv5gkd/4ZUf6r2+TAp1+I64CddjSrtBQ==" sparkle:length="355">https://timokhin.github.io/the-folders-releases/release-notes/The-Folders-1.4.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/timokhin/the-folders-releases/releases/download/v1.4.1/The-Folders-1.4.1.zip" length="8529310" type="application/octet-stream" sparkle:edSignature="DIUgaa1ZW9f/ypKy55nCYINGrgTmWt97je0bSLy19IwFw1B6bSTFU5FF5gnBIF1cGECRWaaK+GK262xNihChCA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="5JQFeGstcu7qcHK1+H6b6LxTdJKS0rL91G1rFlBdNPVeN+9ZIbELF7A1zJ2iu0bvzCN76wZS/kTFUb68y1vLAg==" sparkle:length="1089">https://timokhin.github.io/the-folders-releases/release-notes/The-Folders-1.5.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/timokhin/the-folders-releases/releases/download/v1.5.0/The-Folders-1.5.0.zip" length="8845992" type="application/octet-stream" sparkle:edSignature="xPcGzgmyEYuLPfWHMgTqmgPZQy13Ba8mH957Ei1tVTONySWyDIkR0hwnTnHG3CugneXTnxL++F1MlGcAWzLpBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: QWsSkOL/iy8mexaBJrn74iKoRYz0yHTowxN7HhsuoIyEqE6RDYTRfBVbY1fnHLNnV96BVBIUK+9Z7p1CNhlWAg==
-length: 1546
+edSignature: IMLpMV3tl2S3xchI8ozd7EgBArHNMpPRaQ8IHwDpsgXcyLzELAo9p4e8QTxD1n5Y/VlfzTdlH0nBL2qFLFY+BQ==
+length: 1547
 -->
