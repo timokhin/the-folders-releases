@@ -1,22 +1,38 @@
-# The Folders
+# The Folders — Dual-Pane macOS File Manager for Developers
 
-A little more room for your files. The Folders is a two-pane macOS file manager for developers. Browse project folders, edit Markdown, and see what’s taking up space.
+The Folders is a dual-pane file manager for macOS developers. Browse project folders side by side, preview source code, edit Markdown, and see what takes up disk space.
 
-[Download The Folders](https://github.com/timokhin/the-folders-releases/releases/latest) · [Website](https://timokhin.github.io/the-folders-releases/) · [Issue tracker](https://github.com/timokhin/the-folders-releases/issues)
+[Download for macOS](https://github.com/timokhin/the-folders-releases/releases/latest) · [Website](https://timokhin.github.io/the-folders-releases/) · [Issue tracker](https://github.com/timokhin/the-folders-releases/issues)
 
-![The Folders in dark mode with the Waymark source and project folders open side by side](the-folders-preview-dark.webp)
+![The Folders showing the Waymark source and project folders side by side on macOS](the-folders-preview-dark.webp)
 
-## A closer look at your workspace
+## Tools for working with project files
 
-### File and folder sizes
+### Side-by-side file management
 
-Check file sizes and folder totals. The Folders detects logs, caches, and build artifacts and shows how much space each category takes up.
+Keep source files and build output open in separate panes. Drag files directly from one pane to the other.
 
-![A breakdown of the Waymark project’s total file size, including build artifacts, caches, and logs](folder-analysis.webp)
+### Keyboard-friendly navigation
+
+Press Space to preview files and Command plus a number to switch tabs. Use shortcuts to copy or move files between panes.
+
+### Source code and config previews
+
+Read source code, JSON, YAML, and other text files in either pane. Keep several file and folder previews open in tabs.
+
+### Dotfiles and Terminal
+
+Keep selected hidden files visible by name or pattern, copy file paths, and open project folders in Terminal.
+
+### Folder size and disk usage
+
+See how much space a project folder uses and how that space is split across logs, caches, build artifacts, and other files.
+
+![Disk usage breakdown for the Waymark project, with space used by build artifacts, caches, and logs](folder-analysis.webp)
 
 ### Markdown preview and editor
 
-Read and edit README files, changelogs, and project notes in one formatted Markdown preview. See the markup at the cursor and follow links to local files.
+Edit README files, changelogs, and project notes in a formatted Markdown preview. See the markup at the cursor and follow links to local files.
 
 ![Coastal field notes in the Markdown editor, with headings, a checklist, and a table](markdown-editor.webp)
 
@@ -32,16 +48,10 @@ Play a folder of local tracks as a playlist. See the album artwork, skip or shuf
 
 ![The built-in music player showing album artwork, playback controls, and a playlist of local tracks](music-player.webp)
 
-## Features
+## Download The Folders for macOS
 
-- **Two panes, one flow.** Keep source and build output side by side, and drag files between the panes.
-- **Preview as you go.** Preview source files in either pane and keep several files or folders open in tabs.
-- **Make it yours.** Customize settings and add the context menu commands you use in your workflow.
+Requires macOS 26.6 or later. The signed DMG is about 10 MB.
 
-## Native and lightweight
+Free to evaluate. Continued use requires a paid license.
 
-Built for macOS for a fast, native experience that stays light on your system. The download is about **10 MB**, and The Folders uses little RAM.
-
-## License
-
-See the [The Folders Software License Agreement](license.md).
+[View latest release](https://github.com/timokhin/the-folders-releases/releases/latest) · [The Folders Software License Agreement](license.md)
