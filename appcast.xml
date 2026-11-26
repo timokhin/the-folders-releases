@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Обновления The Folders</description>
         <language>ru</language>
         <item>
-            <title>1.6.2</title>
-            <pubDate>Tue, 24 Nov 2026 11:41:59 +0300</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+            <title>1.7.0</title>
+            <pubDate>Thu, 26 Nov 2026 10:13:59 +0300</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.6</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="V/b7nfW/foJWJxJ1Fz4qcknJ/svQcv0ZAWsDjP0sls4I+zUqghNQhnWpzqqkMm+Ik/X48gq682zLmvV08ZtrBA==" sparkle:length="513">https://timokhin.github.io/the-folders-releases/release-notes/The-Folders-1.6.2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/timokhin/the-folders-releases/releases/download/v1.6.2/The-Folders-1.6.2.zip" length="9084094" type="application/octet-stream" sparkle:edSignature="ky+ZAMmAMnTGqpu8vruKUcF2RxlstjeYk3T/sqW5D9u+yAoeDA/urwGh97sCxfpRIC67CgWuIO8uJXC0paZgAg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="uMbIpck0wkRm0/hiCK/r2WbGOrP5O7UJA07+L/Z0e3330vdi7Mr7ZraWBW/4pgxX8X1VP4FQqAWq4EzB5AvwBA==" sparkle:length="414">https://timokhin.github.io/the-folders-releases/release-notes/The-Folders-1.7.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/timokhin/the-folders-releases/releases/download/v1.7.0/The-Folders-1.7.0.zip" length="9159869" type="application/octet-stream" sparkle:edSignature="IU/Zqq9+Rttf8qPI2MPYKRRvEU9nTG7q+MXTfNg30k0thrDwOOY8nejKhsWirVhDkUKP7irkNb2HZfOmT3Z5DQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: PyIeJiOdzQbNl6JM+AojKXRvGKT2KUYYbR9pY9i5v1g0BdEE/auFtz++DyQ06EJOXdXn5EsLVlEEdHCMsvjtCw==
+edSignature: KmdBgJfX3lSbYIMJO6HjfPWo5hN+lwKJ74BJMzDCJmIhUR1AT+IMZK2pOiwfOpUoOlcsIL3FqMQdraikWMaPAA==
 length: 1546
 -->
